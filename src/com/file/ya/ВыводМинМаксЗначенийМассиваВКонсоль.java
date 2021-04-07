@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.OptionalInt;
 
-public class ВыводВыводМассива {
+public class ВыводМинМаксЗначенийМассиваВКонсоль {
     public static void main(String[] args) {
 
 //        int[] myMas = new int[]{10, 8, 7, 4, 5, 8};

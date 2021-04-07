@@ -2,11 +2,11 @@ package com.file.ya;
 
 import java.util.List;
 
-public class СуммаПервИПоследнМассива {
+public class СуммаЧетныхНечетныхИДвухПоследнихВМассиве {
 
     public static void main(String[] args) {
 
-        int[] myMas = {1};
+        int[] myMas = {1,2,3};
         int sumEven = 0;
         int sumOdd = 0;
         int sumX = 0;

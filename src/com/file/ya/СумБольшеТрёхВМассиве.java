@@ -1,6 +1,6 @@
 package com.file.ya;
 
-public class СумБольшеТрёх {
+public class СумБольшеТрёхВМассиве {
     public static void main(String[] args) {
 
         int[] myArr = {6, 2, 3, 4, 5};

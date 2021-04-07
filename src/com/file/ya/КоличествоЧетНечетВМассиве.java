@@ -1,6 +1,6 @@
 package com.file.ya;
 
-public class ЧетНечет {
+public class КоличествоЧетНечетВМассиве {
     public static void main(String[] args) {
 
         int[] myArr = {1, 21, 3, 4, 5, 6, 7, 9};
