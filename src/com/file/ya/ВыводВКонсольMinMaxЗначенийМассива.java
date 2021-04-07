@@ -1,6 +1,6 @@
 package com.file.ya;
 
-public class MinMax {
+public class ВыводВКонсольMinMaxЗначенийМассива {
     public static void main(String[] args) {
         int[] myArr = {-1, 0, 1, 2, 3, 4,-6, 7, 8, 10};
 
