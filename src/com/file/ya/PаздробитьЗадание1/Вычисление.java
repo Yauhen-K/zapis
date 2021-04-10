@@ -3,12 +3,13 @@ package com.file.ya.PаздробитьЗадание1;
 public class Вычисление {
 
 
+
     public int суммНеЧёт(int[] myMas) {
-//
+
         int sumOdd = 0;
-//
+
         for (int i = 0; i < myMas.length; i++) {
-            if (myMas [i] % 2 != 0) {
+            if (myMas[i] % 2 != 0) {
                 sumOdd = sumOdd + myMas[i];
             }
 
@@ -21,13 +22,14 @@ public class Вычисление {
     public int суммЧёт(int[] myMas) {
         int sumEven = 0;
         for (int i = 0; i < myMas.length; i++) {
-            if (myMas [i] % 2 == 0) {
+            if (myMas[i] % 2 == 0) {
                 sumEven = sumEven + myMas[i];
             }
 
         }
         return sumEven;
     }
+
 
     public int суммX(int[] myMas) {
         int sumX = 0;
