@@ -1,10 +1,10 @@
-package com.file.ya;
+package com.file.ya.раздробить;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class Main {
+public class ВводСКонсоли {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the number of elements in the array");

@@ -1,4 +1,4 @@
-package com.file.ya;
+package com.file.ya.РаботаСЛистом;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,6 +10,7 @@ public class СуммБольшеТрёхВЛисте {
     myArr.add(1);
     myArr.add(2);
     myArr.add(3);
+    myArr.add(5);
     myArr.add(10);
 //        myArr.add(10);     Тут есть вопросы.
 //        myArr.add(10);

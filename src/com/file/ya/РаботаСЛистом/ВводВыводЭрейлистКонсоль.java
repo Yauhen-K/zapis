@@ -1,4 +1,4 @@
-package com.file.ya;
+package com.file.ya.РаботаСЛистом;
 
 import java.io.BufferedReader;
 import java.io.IOException;

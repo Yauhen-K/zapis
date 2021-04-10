@@ -1,4 +1,4 @@
-package com.file.ya;
+package com.file.ya.РаботаСМассивом;
 
 import java.util.Arrays;
 import java.util.Collections;

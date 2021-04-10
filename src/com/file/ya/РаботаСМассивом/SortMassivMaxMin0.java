@@ -1,9 +1,9 @@
-package com.file.ya;
+package com.file.ya.РаботаСМассивом;
 
 import java.util.Arrays;
 
 
-public class SortMassivMaxMin {
+public class SortMassivMaxMin0 {
 
         public static void main(String[] args) {
             int myArr [] = {2, 4, 3, 1, 5, -1, 0, 9, 6, 7, 8, 10};
@@ -14,8 +14,8 @@ public class SortMassivMaxMin {
                         замена(myArr, j);
                     }
                 }
+                System.out.println(Arrays.toString(myArr));
             }
-            System.out.println(Arrays.toString(myArr));
         }
 
         private static void замена(int myArr[], int i) {

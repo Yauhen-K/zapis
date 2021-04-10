@@ -1,18 +1,16 @@
-package com.file.ya;
+package com.file.ya.РаботаСМассивом;
 
 
 import java.util.Arrays;
 
 public class SortMassivMinMax1 {
     public static void main(String[] args) {
-        SortMassivMinMax1 sortMassiv = new SortMassivMinMax1();
 
         int[] myArr = {2, 4, 3, 1, 5, -1, 0, 9, 6, 7, 8, 10};
-        sortMassiv.sortMyArray(myArr);
-
+        sortMyArray(myArr);
     }
 
-    public void sortMyArray(int[] myArr) {
+    public static void sortMyArray(int[] myArr) {
 
         for (int i = 0; i < myArr.length - 1; i++) {
 
@@ -26,9 +24,10 @@ public class SortMassivMinMax1 {
 
                 }
             }
-
+            System.out.println(Arrays.toString(myArr));
         }
-        System.out.println(Arrays.toString(myArr));
+
+
     }
 }
 
