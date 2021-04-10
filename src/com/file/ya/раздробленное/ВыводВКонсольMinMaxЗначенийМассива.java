@@ -18,4 +18,5 @@ public class ВыводВКонсольMinMaxЗначенийМассива {
         int max = finder.findMax(myArr);
         System.out.println("макс значение массива  " + max);
     }
+
 }

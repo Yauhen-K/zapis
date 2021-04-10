@@ -1,4 +1,4 @@
-package com.file.ya.раздробить;
+package com.file.ya.раздробитьЗадание2;
 
 import java.util.ArrayList;
 import java.util.List;

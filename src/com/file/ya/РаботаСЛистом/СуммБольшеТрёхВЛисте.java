@@ -25,7 +25,7 @@ public class СуммБольшеТрёхВЛисте {
 
     for (int i = 0; i < myArr.size(); i++) {
 
-//        for (Integer i : myArr) {
+//        for (Integer i : myArr) { // не работает фор ич
         if (myArr.get(i) > 3) {
             summ = summ + myArr.get(i);
         }
