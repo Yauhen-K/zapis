@@ -1,4 +1,4 @@
-package com.file.ya.массив;
+package com.file.ya.задания.выполненные.массив;
 
 
 import java.util.Arrays;

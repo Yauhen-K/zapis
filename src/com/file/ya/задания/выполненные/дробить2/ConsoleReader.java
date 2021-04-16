@@ -1,4 +1,4 @@
-package com.file.ya.дробить2;
+package com.file.ya.задания.выполненные.дробить2;
 
 import java.util.ArrayList;
 import java.util.List;

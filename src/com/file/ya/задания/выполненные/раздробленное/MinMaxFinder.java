@@ -1,4 +1,4 @@
-package com.file.ya.раздробленное;
+package com.file.ya.задания.выполненные.раздробленное;
 
 public class MinMaxFinder {
     public int findMin(int[] myArr) {

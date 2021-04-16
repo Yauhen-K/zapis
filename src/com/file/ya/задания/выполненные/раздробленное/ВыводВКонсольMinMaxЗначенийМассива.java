@@ -1,6 +1,4 @@
-package com.file.ya.раздробленное;
-
-import com.file.ya.раздробленное.MinMaxFinder;
+package com.file.ya.задания.выполненные.раздробленное;
 
 public class ВыводВКонсольMinMaxЗначенийМассива {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.file.ya.массив;
+package com.file.ya.задания.выполненные.массив;
 
 public class КоличествоТроекВМассиве {
     public static void main(String[] args) {

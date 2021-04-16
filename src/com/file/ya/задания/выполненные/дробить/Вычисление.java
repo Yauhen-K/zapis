@@ -1,4 +1,4 @@
-package com.file.ya.дробить;
+package com.file.ya.задания.выполненные.дробить;
 
 public class Вычисление {
 

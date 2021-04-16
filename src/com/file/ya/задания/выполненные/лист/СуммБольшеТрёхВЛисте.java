@@ -1,4 +1,4 @@
-package com.file.ya.лист;
+package com.file.ya.задания.выполненные.лист;
 
 import java.util.ArrayList;
 import java.util.List;
