@@ -1,6 +1,5 @@
-package com.file.ya.РаботаСМассивом;
+package com.file.ya.массив;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class ВыводМассиваВКонсоль {

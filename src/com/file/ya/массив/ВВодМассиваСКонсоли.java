@@ -1,4 +1,4 @@
-package com.file.ya.РаботаСМассивом;
+package com.file.ya.массив;
 
 import java.io.BufferedReader;
 import java.io.IOException;

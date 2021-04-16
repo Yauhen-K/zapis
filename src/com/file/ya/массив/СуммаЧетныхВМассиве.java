@@ -1,6 +1,4 @@
-package com.file.ya.РаботаСМассивом;
-
-import java.util.stream.IntStream;
+package com.file.ya.массив;
 
 public class СуммаЧетныхВМассиве {
     public static void main(String[] args) {

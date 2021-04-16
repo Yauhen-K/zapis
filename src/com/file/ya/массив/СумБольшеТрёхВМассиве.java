@@ -1,4 +1,4 @@
-package com.file.ya.РаботаСМассивом;
+package com.file.ya.массив;
 
 public class СумБольшеТрёхВМассиве {
     public static void main(String[] args) {

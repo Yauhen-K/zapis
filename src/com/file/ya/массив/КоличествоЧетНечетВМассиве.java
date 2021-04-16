@@ -1,4 +1,4 @@
-package com.file.ya.РаботаСМассивом;
+package com.file.ya.массив;
 
 public class КоличествоЧетНечетВМассиве {
     public static void main(String[] args) {

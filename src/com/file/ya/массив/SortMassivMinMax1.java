@@ -1,4 +1,4 @@
-package com.file.ya.РаботаСМассивом;
+package com.file.ya.массив;
 
 
 import java.util.Arrays;

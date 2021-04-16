@@ -1,8 +1,4 @@
-package com.file.ya.РаботаСМассивом;
-
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.OptionalInt;
+package com.file.ya.массив;
 
 public class ВыводМинМаксЗначенийМассиваВКонсоль {
     public static void main(String[] args) {
