@@ -8,7 +8,7 @@ public class IncreaseLetters {
     }
 
     public String sum(String txt ) {
-        return ("привет  " + txt);
+        return "привет  " + txt;
     }
 
 
