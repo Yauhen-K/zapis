@@ -1,4 +1,4 @@
-package com.file.ya.задания;
+package com.file.ya.задания.выполненные.дробить4;
 
 import java.io.BufferedReader;
 import java.io.IOException;
