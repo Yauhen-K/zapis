@@ -4,15 +4,14 @@ public class Start {
     public static void main(String[] args) {
         IncreaseLetters letters = new IncreaseLetters();
 
-        letters.name = "  ВаCя";
-        letters.text = " Привет";
+        String name = " Вася";
 
-        String ap = letters.ApLetters(letters.name);
+        String largeRegister = letters.apLetters(name);
 
-        String st = letters.sum(ap );
+        String result  = letters.sum(largeRegister);
 
 
-        System.out.println(st);
+        System.out.println(result);
 
 
     }
