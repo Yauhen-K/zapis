@@ -1,18 +1,20 @@
 package com.file.ya.задания.выполненные.exchange;
 
 public class Converter {
-    double курсДоллара;
-    double курсЕвро;
-    double меняемаяСумма;
-    double результатКонверсииВДоллар;
-    double результатКонверсииВЕвро;
+    private double курсДоллара;
+    private double курсЕвро;
 
-    public Converter(double курс$, double курсE, double суммБелРуб) {
+
+    public Converter(double курс$, double курсE) {
         курсДоллара = курс$;
         курсЕвро = курсE;
-        меняемаяСумма = суммБелРуб;
-        результатКонверсииВДоллар = меняемаяСумма / курсДоллара;
-        результатКонверсииВЕвро = меняемаяСумма / курсЕвро;
     }
 
+    double exchangeUsd(double суммБелРуб) {
+        return суммБелРуб / курсДоллара;
+    }
+
+    double exchangeEur(double суммБелРуб) {
+        return суммБелРуб / курсЕвро;
+    }
 }
